@@ -23,4 +23,6 @@
  ---   
   
 <div align="center"><a href="https://github.com/Kaleidosport/github-readme-stats"><img width="56%" src="https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight" /></a>  
-<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact&theme=maroongold" /></a></div>
+<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact&theme=tokyonight" /></a></div>  
+  
+<div align="center"><a href="https://git.io/streak-stats"><img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleidosport&theme=tokyonight" /></a></div>
