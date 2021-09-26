@@ -11,5 +11,5 @@
   
 ---  
   
-<div align="center"><a href="https://github.com/Kaleidosport/github-readme-stats"><img width="35%" src="https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight" /></a>  
-<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact" /></a></div>
+<div align="center"><a href="https://github.com/Kaleidosport/github-readme-stats"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight" /></a>  
+<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact" /></a></div>
