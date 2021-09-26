@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-#### An aspiring, hard-working web developer 😎  
+#### 🛠️ An aspiring, hard-working web developer ⚒️  
   
 - 🔭 Currently in training @ [BeCode](https://github.com/becodeorg).
 - 🌱 Currently learning Javascript and node.JS stuff.
-- 📫 How to reach me => <a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
+- 📫 <a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
