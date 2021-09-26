@@ -11,5 +11,11 @@
   
 ---  
   
+<h4 align="center">💻 What I've been working with so far ✍️</h2>  
+  
+<div align="center"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/MarkDown-000000?logo=markdown&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" /></div>  
+  
+ ---   
+  
 <div align="center"><a href="https://github.com/Kaleidosport/github-readme-stats"><img width="56%" src="https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight" /></a>  
-<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact" /></a></div>
+<a href="https://github.com/Kaleidosport/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact&theme=maroongold" /></a></div>
