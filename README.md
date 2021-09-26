@@ -9,5 +9,6 @@
 - 📌 Also proficient in corporate communication, branding, content & community management.
 - 📫 Wanna get in touch? You can reach me here: <a href="mailto:anthony-lambert@becode.xyz"><img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white&style=flat" /></a> 
   
+---  
   
 <div align="center"><a href="https://github.com/Kaleidosport/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight" /></a> <a href="https://github.com/Kaleidosport/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleidosport&layout=compact" /></a></div>
