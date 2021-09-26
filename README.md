@@ -7,6 +7,7 @@
 - 🔭 I'm active as a trainee @ [BeCode](https://github.com/becodeorg), full-fledged Junior WebDev in the making.
 - 🌱 Currently learning Javascript and node.JS stuff, loving the challenge as a whole.
 - 📌 Also proficient in corporate communication, branding, content & community management.
+- 💬 Fluent in English 🇬🇧, French 🇫🇷 and Dutch 🇳🇱. Learning Spanish 🇪🇸 and Japanese 🇯🇵 on a daily basis.
 - 📫 Wanna get in touch? You can reach me here: <a href="mailto:anthony-lambert@becode.xyz"><img src="https://img.shields.io/badge/Mail-EA4335?logo=gmail&logoColor=white&style=flat" /></a> 
   
 ---  
