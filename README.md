@@ -12,9 +12,13 @@
   
 ---  
   
-<h4 align="center">💻 What I've been working with so far ✍️</h2>  
+<h4 align="center">💻 What I've been working with so far ✍️</h4>  
   
 <div align="center"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/MarkDown-000000?logo=markdown&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" /></div>  
+  
+<h4 align="center">💻 Preferred tools & techs ✍️</h4>  
+  
+<div align="center"> <img src="https://img.shields.io/badge/Sublime Text-FF9800?logo=sublimetext&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Google Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Google Ads-4285F4?logo=googleads&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=flat" /> </div>    
   
  ---   
   
