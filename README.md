@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, welcome on my profile 👋
 
 <!--
 **Kaleidosport/Kaleidosport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-#### 🛠️ An aspiring, hard-working web developer ⚒️  
+##### 🛠️ An aspiring, hard-working web developer ⚒️  
   
 - 🔭 Currently in training @ [BeCode](https://github.com/becodeorg).
 - 🌱 Currently learning Javascript and node.JS stuff.
-- 📫 <a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
+- 📫 You can reach me here: <a href="https://www.linkedin.com/in/anthonylambert14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a> 
+  
+  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaleidosport&show_icons=true&theme=tokyonight)](https://github.com/Kaleidosport/github-readme-stats)
