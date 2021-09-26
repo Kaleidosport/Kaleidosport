@@ -1,4 +1,6 @@
-## 🛠️ An aspiring, hard-working web developer ⚒️ 
+## 🛠️ An aspiring, hard-working web developer ⚒️   
+  
+#### Welcome on my profile! ![Profile View Counter](https://komarev.com/ghpvc/?username=Kaleidosport)
   
 - 🔭 Currently in training @ [BeCode](https://github.com/becodeorg).
 - 🌱 Currently learning Javascript and node.JS stuff.
