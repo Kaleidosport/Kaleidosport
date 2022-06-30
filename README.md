@@ -4,7 +4,7 @@
   
  --- 
   
-- 🔭 I've just completed @ [BeCode](https://github.com/becodeorg)'s web development bootcamp, currently active as PM @ [Cronos Wallonia](https://www.linkedin.com/company/cronowwallonia/).
+- 🔭 I've just completed @ [BeCode](https://github.com/becodeorg)'s web development bootcamp, currently active as Presales IT @[Afelio](https://afelio.be).
 - 🌱 Currently learning Laravel and further honing my PHP skills, loving the challenge as a whole.
 - 📌 Also proficient in corporate communication, branding, content & community management.
 - 💬 Fluent in English 🇬🇧, French 🇫🇷 and Dutch 🇳🇱. Learning Spanish 🇪🇸 and Japanese 🇯🇵 on a daily basis.
